@@ -5,4 +5,4 @@ In this weather app, you can get the weather details of a particular city by ent
 
 You’ll get many weather details in this app like temperature in celsius, weather conditions, location, feels like, and humidity.
 
-You can check the working of tha Web app [here](https://replit.com/@RahulAcharya5/Weather-app?v=1)
+You can check the working of tha Web app [here](https://replit.com/@RahulAcharya5/Weather-app?v=1).
